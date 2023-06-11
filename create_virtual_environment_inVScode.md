@@ -8,7 +8,7 @@ In the prompt, type the following commands to create a virtual environment:
 
 ```
 PS > python -m venv virtualenv
-PS > ./venv/Scripts/Activate.ps1
+PS > ./virtualenv/Scripts/Activate.ps1
 (virtualenv) PS > python -m pip install --upgrade  pip
 (virtualenv) PS > cp "D:\Scripting\Installation\requirements.txt"
 (virtualenv) PS > pip install -r requirements.txt
